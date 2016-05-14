@@ -20,12 +20,12 @@
 			"Rev": "5c1406e9ea0ab919f92e1b194169565def41147b"
 		},
 		{
-			"ImportPath": "github.com/garyburd/redigo/internal",
-			"Rev": "785e0ca9319196b94fd61abd4c9eab5c11777377"
+			"ImportPath": "github.com/garyburd/redigo/tree/master/internal",
+			"Rev": "5f01fdde266ce8448600f4a510bb1c05a8d288f1"
 		},
 		{
 			"ImportPath": "github.com/garyburd/redigo/tree/master/redis",
-			"Rev": "785e0ca9319196b94fd61abd4c9eab5c11777377"
+			"Rev": "8873b2f1995f59d4bcdd2b0dc9858e2cb9bf0c13"
 		},
 		{
 			"ImportPath": "github.com/nu7hatch/gouuid",
