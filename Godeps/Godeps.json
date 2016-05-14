@@ -24,7 +24,7 @@
 			"Rev": "785e0ca9319196b94fd61abd4c9eab5c11777377"
 		},
 		{
-			"ImportPath": "github.com/garyburd/redigo/redis",
+			"ImportPath": "github.com/garyburd/redigo/tree/master/redis",
 			"Rev": "785e0ca9319196b94fd61abd4c9eab5c11777377"
 		},
 		{
